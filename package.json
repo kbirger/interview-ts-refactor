@@ -1,0 +1,8 @@
+{
+  "name": "interview-ts-refactor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kbirger/interview-ts-refactor.git",
+  "author": "Kirill Birger <kirill.birger@hqo.co>",
+  "license": "MIT"
+}
